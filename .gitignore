@@ -1,0 +1,20 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore logs and other generated files
+logs/
+*.log
+npm-debug.log*
+
+# Ignore environment variables file
+.env
+
+# Ignore build output
+dist/
+build/
+
+# Ignore Visual Studio Code configuration files
+.vscode/
+
+# Ignore macOS system files
+.DS_Store
